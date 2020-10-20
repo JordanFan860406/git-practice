@@ -4,3 +4,4 @@ pull 取得遠端數據庫的內容
 issue4 更新
 
 branch user2
+branch user2 update
